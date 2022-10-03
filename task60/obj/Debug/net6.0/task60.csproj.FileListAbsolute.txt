@@ -1,0 +1,15 @@
+/Users/mariadementeva/Documents/c#/hw8/task60/bin/Debug/net6.0/task60
+/Users/mariadementeva/Documents/c#/hw8/task60/bin/Debug/net6.0/task60.deps.json
+/Users/mariadementeva/Documents/c#/hw8/task60/bin/Debug/net6.0/task60.runtimeconfig.json
+/Users/mariadementeva/Documents/c#/hw8/task60/bin/Debug/net6.0/task60.dll
+/Users/mariadementeva/Documents/c#/hw8/task60/bin/Debug/net6.0/task60.pdb
+/Users/mariadementeva/Documents/c#/hw8/task60/obj/Debug/net6.0/task60.csproj.AssemblyReference.cache
+/Users/mariadementeva/Documents/c#/hw8/task60/obj/Debug/net6.0/task60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadementeva/Documents/c#/hw8/task60/obj/Debug/net6.0/task60.AssemblyInfoInputs.cache
+/Users/mariadementeva/Documents/c#/hw8/task60/obj/Debug/net6.0/task60.AssemblyInfo.cs
+/Users/mariadementeva/Documents/c#/hw8/task60/obj/Debug/net6.0/task60.csproj.CoreCompileInputs.cache
+/Users/mariadementeva/Documents/c#/hw8/task60/obj/Debug/net6.0/task60.dll
+/Users/mariadementeva/Documents/c#/hw8/task60/obj/Debug/net6.0/refint/task60.dll
+/Users/mariadementeva/Documents/c#/hw8/task60/obj/Debug/net6.0/task60.pdb
+/Users/mariadementeva/Documents/c#/hw8/task60/obj/Debug/net6.0/task60.genruntimeconfig.cache
+/Users/mariadementeva/Documents/c#/hw8/task60/obj/Debug/net6.0/ref/task60.dll
